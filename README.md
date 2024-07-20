@@ -30,7 +30,7 @@ NOTE(s):
          -  **The attitude quaternion.**
 
     - **Equation (305) on Page 482 of Reference [ 2 ]**.
-      - This equation shows how to use the quaternion product when the quaternion cross product is specified.
+      - **This equation shows how to use the quaternion product when the quaternion cross product is specified.**
       - **Here the angular velocity is contained in a "pure" scalar first quaternion in the sense of Equation (182) on Page 466 of Reference [ 2 ]**
       - **(except that Equation (182) is scalar last).**
       - **Also note Equation (30) on Page 265 of Reference [ 1 ]**
