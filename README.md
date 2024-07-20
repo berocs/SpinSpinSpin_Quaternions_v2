@@ -25,23 +25,15 @@ NOTE(s):
 - Time rate of change of the Scalar First Unit Quaternion:
   - To determine the time rate of change of the Scalar First Unit Quaternion, **use a combination of the following two items**:
      - **The FIRST PART of Equation (46) on Page 266 of Reference [ 1 ]**.
-                  This states that the time rate of change of the
-                  attitude quaterion is equal to the cross product
-                  of two quaternions"
-                  -  The pure quaternion container of the
-                            angular velocity 3D vector.
-                  -  The attitude quaternion.
+       - **This states that the time rate of change of the attitude quaterion is equal to the cross product of two quaternions:**
+         -  **The pure quaternion container of the angular velocity 3D vector.**
+         -  **The attitude quaternion.**
 
     - **Equation (305) on Page 482 of Reference [ 2 ]**.
-                  This equation shows how to use the quaternion
-                  product when the quaternion cross product is
-                  specified.
-                  Here the angular velocity is contained in a
-                  "pure" scalar first quaternion in the sense of
-                  Equation (182) on Page 466 of Reference [ 2 ]
-                  (except that Equation (182) is scalar last).
-                  Also note Equation (30) on Page 265 of
-                  Reference [ 1 ]
+      - This equation shows how to use the quaternion product when the quaternion cross product is specified.
+      - **Here the angular velocity is contained in a "pure" scalar first quaternion in the sense of Equation (182) on Page 466 of Reference [ 2 ]**
+      - **(except that Equation (182) is scalar last).**
+      - **Also note Equation (30) on Page 265 of Reference [ 1 ]**
 
 - Note that the 2D plots of inertial angular momentum quantities reveal the constant nature of the inertial angular momentum over time as expected for free rotation.
   - Change is within 10<sup>-13</sup>.
