@@ -2,7 +2,9 @@
 A Simple MATLAB Simulation for Unstable Free Rotation of a Rigid Body.
 
 NOTE(s):
-- Rotating object kinematics is "scalar first unit quaternion" based.
+- Rotating object kinematics is "**scalar first unit quaternion**" based.
+- The project "**SpinSpinSpin_Quaternion_v1**" is similar to this project.
+- The project "**SpinSpinSpin_RotationVector**" is similar to this project but "**RotationVector**" based.
 - Scalar First Unit Quaternion Definition:
   - A scalar first unit quaternion is a one dimensional row or column vector of length four.
     - **Use Equation (22) on Page 264 of Reference [ 1 ]** 
