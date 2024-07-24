@@ -1,5 +1,8 @@
 # SpinSpinSpin_Quaternions_v2
+
 A Simple MATLAB Simulation for Unstable Free Rotation of a Rigid Body.
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=berocs/SpinSpinSpin_Quaternions_v2)
 
 NOTE(s):
 - Rotating object kinematics is "**scalar first unit quaternion**" based.
